@@ -1,4 +1,4 @@
-### Olá! Eu sou 🤓 Leonardo Motta 👨‍💻
+### Olá! Eu sou 🤓 Leonardo Motta 👨‍💻:
 
 [![Site](https://img.shields.io/website?label=leonardomotta.com&style=for-the-badge&url=https://leonardomotta.netlify.app//)](https://leonardomotta.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-motta-51883366/)
@@ -8,9 +8,11 @@
 
 ![Leonardo Motta GitHub stats](https://github-readme-stats.vercel.app/api?username=leoobrabo&show_icons=true&theme=dracula)
 
-### Tecnologias que uso no meu dia-a-dia
+### Tecnologias que uso no meu dia-a-dia:
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
+
+### Tempo programando em projetos pessoais:
 
 [![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
 
