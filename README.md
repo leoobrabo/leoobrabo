@@ -12,5 +12,6 @@
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
 
+[![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
 
-Apaixonado por tecnologia, minha família, meus gatos, musica e programação
+Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
