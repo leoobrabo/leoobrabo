@@ -18,4 +18,4 @@
 
 Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
 
-![Snake animation](https://github.com/leoobrabo/leoobrabo/blob/output/github-contribution-grid-snake.svg)
+
