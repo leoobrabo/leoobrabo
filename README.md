@@ -17,3 +17,5 @@
 [![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
 
 Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
+
+[Snake animation](https://github.com/leoobrabo/leoobrabo/blob/output/github-contribution-grid-snake.svg)
