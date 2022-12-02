@@ -1,5 +1,14 @@
 ### Olá! Eu sou 🤓 Leonardo Motta 👨‍💻:
 
+<div>
+  <a href="https://github.com/leoobrabo">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=leoobrabo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoobrabo&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+
+
 [![Site](https://img.shields.io/website?label=leonardomotta.com&style=for-the-badge&url=https://leonardomotta.netlify.app//)](https://leonardomotta.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-motta-51883366/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leobrabo.py/)
@@ -18,11 +27,4 @@
 
 Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
 
-<div>
-  <a href="https://github.com/leoobrabo">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=leoobrabo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoobrabo&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
 
